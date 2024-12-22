@@ -1,6 +1,9 @@
 div{
     background-color: red;
+  border:5px solid tomato;
+  border-radius :5px;
 }
 p{
+    padding:30px;
     color:white;
 }
